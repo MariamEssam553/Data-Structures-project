@@ -1,0 +1,31 @@
+﻿  ArrivalEvent.cpp
+  CancellationEvent.cpp
+  PromotionEvent.cpp
+  Main.cpp
+  Restaurant.cpp
+E:\University\Sophomore (2019-2020)\Second term (Corona term)\Data Structures and Algorithms\Project\8_11_3707_ T1\Restaurant\Rest\Restaurant.cpp(386,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\University\Sophomore (2019-2020)\Second term (Corona term)\Data Structures and Algorithms\Project\8_11_3707_ T1\Restaurant\Rest\Restaurant.cpp(388,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\University\Sophomore (2019-2020)\Second term (Corona term)\Data Structures and Algorithms\Project\8_11_3707_ T1\Restaurant\Rest\Restaurant.cpp(402,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\University\Sophomore (2019-2020)\Second term (Corona term)\Data Structures and Algorithms\Project\8_11_3707_ T1\Restaurant\Rest\Restaurant.cpp(404,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\University\Sophomore (2019-2020)\Second term (Corona term)\Data Structures and Algorithms\Project\8_11_3707_ T1\Restaurant\Rest\Restaurant.cpp(419,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\University\Sophomore (2019-2020)\Second term (Corona term)\Data Structures and Algorithms\Project\8_11_3707_ T1\Restaurant\Rest\Restaurant.cpp(421,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\University\Sophomore (2019-2020)\Second term (Corona term)\Data Structures and Algorithms\Project\8_11_3707_ T1\Restaurant\Rest\Restaurant.cpp(962,85): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'C_STATUS' can equal the given constant
+E:\University\Sophomore (2019-2020)\Second term (Corona term)\Data Structures and Algorithms\Project\8_11_3707_ T1\Restaurant\Rest\Restaurant.cpp(1042,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\University\Sophomore (2019-2020)\Second term (Corona term)\Data Structures and Algorithms\Project\8_11_3707_ T1\Restaurant\Rest\Restaurant.cpp(1070,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\University\Sophomore (2019-2020)\Second term (Corona term)\Data Structures and Algorithms\Project\8_11_3707_ T1\Restaurant\Rest\Restaurant.cpp(1096,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\University\Sophomore (2019-2020)\Second term (Corona term)\Data Structures and Algorithms\Project\8_11_3707_ T1\Restaurant\Rest\Restaurant.cpp(1332,91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\University\Sophomore (2019-2020)\Second term (Corona term)\Data Structures and Algorithms\Project\8_11_3707_ T1\Restaurant\Generic_DS\PriorityQueue.h(54,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\University\Sophomore (2019-2020)\Second term (Corona term)\Data Structures and Algorithms\Project\8_11_3707_ T1\Restaurant\Generic_DS\PriorityQueue.h(53): message : while compiling class template member function 'bool PriorityQueue<Order *>::enqueue(const T &,double)'
+          with
+          [
+              T=Order *
+          ]
+E:\University\Sophomore (2019-2020)\Second term (Corona term)\Data Structures and Algorithms\Project\8_11_3707_ T1\Restaurant\Rest\Restaurant.cpp(563): message : see reference to function template instantiation 'bool PriorityQueue<Order *>::enqueue(const T &,double)' being compiled
+          with
+          [
+              T=Order *
+          ]
+E:\University\Sophomore (2019-2020)\Second term (Corona term)\Data Structures and Algorithms\Project\8_11_3707_ T1\Restaurant\Rest\Restaurant.h(28): message : see reference to class template instantiation 'PriorityQueue<Order *>' being compiled
+  Generating Code...
+E:\University\Sophomore (2019-2020)\Second term (Corona term)\Data Structures and Algorithms\Project\8_11_3707_ T1\Restaurant\Rest\Restaurant.cpp(783): warning C4700: uninitialized local variable 'ArrayToBeSorted' used
+  Restaurant.vcxproj -> E:\University\Sophomore (2019-2020)\Second term (Corona term)\Data Structures and Algorithms\Project\8_11_3707_ T1\Debug\Restaurant.exe
